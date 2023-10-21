@@ -3,13 +3,13 @@ import os
 class Config(object):
     API_ID = int(6435225) #dont change
     API_HASH = "4e984ea35f854762dcde906dce426c2d" #dont change 
-    BOT_TOKEN = "" #fill your telegram bot token
-    STRING_SESSION = "" #an Telethon Session 
+    BOT_TOKEN = "6761376606:AAEo81S4Pj-QZQ4SLjS424jiLXBGAFwHCIs" #fill your telegram bot token
+    STRING_SESSION = "1BVtsOLcBu3W7ckrOLJyyk-EgLGO3L-4B2Aw-lZDuS5jbMV7CDvIP8FV9uk8Wg7DvXWTZRsDey7J6k5HIxjVznc08Wstd3Sv_DmsuFpFFwpy8W4pEIpIAw2_D8f8pOC7kFj_5VkMraCarvC3e94nYPi5tb7d6dtNOW4JoyAcZ7tSBkNRyDGd0fSbnhpTHEobEyCHlY8AXGCgVNRgC-rbnlZ1eahdkrTZxbXlCkJSc-5M1OXoTDL0BpjpXFbW1vQ2-P9mN-NaQyAIT4QT9cih9qu3cFZsAAJBMmlSarLGEn4sJ_0fahJY8iRO_KUu7_9QmeOrzCf3uxf_EgIgwFrr7mLp8ZH3P3Os=" #an Telethon Session 
     MANAGEMENT_MODE = None #Dont change
     HEROKU_MODE = None #dont change
-    BOT_USERNAME = "Zaid2_Robot" #Your Bot username 
-    SUPPORT = "TheSupportChat" #optional
-    CHANNEL = "TheUpdatesChannel" #optional
+    BOT_USERNAME = "bandarmusikbot" #Your Bot username 
+    SUPPORT = "bieunyy" #optional
+    CHANNEL = "asupanbieuny" #optional
     START_IMG = "https://telegra.ph/file/35a7b5d9f1f2605c9c0d3.png"
     CMD_IMG = "https://telegra.ph/file/66518ed54301654f0b126.png"
     ASSISTANT_ID = int(1234567890) #your string added account user id..
